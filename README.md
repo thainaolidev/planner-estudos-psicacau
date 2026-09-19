@@ -1,4 +1,4 @@
-# Sistema de Estudos — landing page psi.cacau
+# Planner de Estudos Notion — landing page psi.cacau
 
 Landing page estática, responsiva e em português do Brasil para vender o template de Notion.
 
